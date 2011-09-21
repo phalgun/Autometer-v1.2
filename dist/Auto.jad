@@ -1,0 +1,8 @@
+MIDlet-1: first, , first
+MIDlet-Jar-Size: 9528
+MIDlet-Jar-URL: Auto.jar
+MIDlet-Name: Auto
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
